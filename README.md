@@ -2,7 +2,19 @@
 
 This project proposes a multimodal empathy modeling framework that learns from dyadic interactions by encoding a speaker’s **audio** and **facial dynamics (3DMM coefficients)** to generate **an empathizer’s context-aware and dynamic audiovisual responses** beyond static reactions.
 
+<img width="80%" src="https://github.com/user-attachments/assets/0009c8ad-f1eb-40cb-a909-fe0d0b9258ff"/>
 
+[Demo1 with audio (MP4)](https://github.com/smu-ivpl/MEG-Multi-signal-Empathy-Generation/blob/master/assets/demo1.mp4)  
+
+<img width="80%" src="https://github.com/user-attachments/assets/8a935c52-a1bd-4fc4-9fbd-79911f7f43c2"/>
+
+[Demo2 with audio (MP4)](https://github.com/smu-ivpl/MEG-Multi-signal-Empathy-Generation/blob/master/assets/demo2.mp4)  
+
+<img width="80%" src="https://github.com/user-attachments/assets/6e587379-26b0-4958-af9e-a250196fd479"/>
+
+[Demo3 with audio (MP4)](https://github.com/smu-ivpl/MEG-Multi-signal-Empathy-Generation/blob/master/assets/demo3.mp4)
+
+---
 ## Empathetic response generation 
 
 This code is composed of five groups:
