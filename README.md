@@ -2,7 +2,10 @@
 
 This project proposes a multimodal empathy modeling framework that learns from dyadic interactions by encoding a speaker’s **audio** and **facial dynamics (3DMM coefficients)** to generate **an empathizer’s context-aware and dynamic audiovisual responses** beyond static reactions.
 
-https://github.com/user-attachments/assets/13b9ebac-a837-4b49-bc08-31037ba5fbb9
+
+
+https://github.com/user-attachments/assets/b1ab0603-6764-4451-a812-28c4d00607ac
+
 
 ---
 ## Empathetic response generation 
