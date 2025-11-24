@@ -4,7 +4,15 @@ This project proposes a multimodal empathy modeling framework that learns from d
 
 
 
-https://github.com/user-attachments/assets/b1ab0603-6764-4451-a812-28c4d00607ac
+
+
+
+https://github.com/user-attachments/assets/3ec83094-c5ed-42f7-89e1-b7b1b1174eb4
+
+
+
+
+
 
 
 ---
